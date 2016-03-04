@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PSPClienteRest</string>
+    <string name="title_activity_add">Añadir</string>
+</resources>
